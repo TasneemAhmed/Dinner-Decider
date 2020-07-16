@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
         val jop = "Developer"
 
         val name = "Tasneem"
+        val nameHaccker = "yousef"
+
         //whenever the "DECIDE!" button is pressed the between brackets will happen
 
        decideButton.setOnClickListener{
