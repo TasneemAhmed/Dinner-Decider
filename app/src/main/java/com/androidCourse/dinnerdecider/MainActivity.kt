@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        val name = "Tasneem"
         //whenever the "DECIDE!" button is pressed the between brackets will happen
 
        decideButton.setOnClickListener{
